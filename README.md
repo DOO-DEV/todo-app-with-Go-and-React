@@ -1,1 +1,1 @@
-## This is a TODO app using Go and React.
+- This is a Todo application using Go(Golang) as server languge and fiber web server, and for client React with vite bundller
